@@ -13,18 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "GopalKarhale"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GopalKarhale&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/GopalKarhale/javaLogicalProgram.git",
-    "accountId": "04b04644-3652-4e1c-8743-f6c280a053c5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GopalKarhale/javaLogicalProgram.git&quot;,
+    &quot;accountId&quot;: &quot;04b04644-3652-4e1c-8743-f6c280a053c5&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -52,9 +52,21 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="java" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="pppp" />
+      <option name="PROGRAM_PARAMETERS" value="$MAVEN_REPOSITORY$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,6 +86,7 @@
       <workItem from="1752928149771" duration="856000" />
       <workItem from="1753539342839" duration="37000" />
       <workItem from="1753546037056" duration="77000" />
+      <workItem from="1754706890775" duration="189000" />
     </task>
     <servers />
   </component>
